@@ -6,18 +6,29 @@ My name is Ognjen Marceta. My friends call me Ogi.
 
 ## &#x270d; About Me
 
-👨‍💻 Senior Software Engineer at Helu <br>
-🕹️ Former Game Developer <br>
-📷 🎥 Photography/Filmmaking Hobbyist. <br>
+Senior Software Engineer with 15+ years of experience building scalable web and mobile products across SaaS, fintech, smart access, device management, and game development.
+
+My strongest value is turning complex product and technical requirements into reliable, maintainable systems. I work across frontend-heavy and full-stack environments, with deep experience in JavaScript, TypeScript, Vue, React, Node.js, software architecture, refactoring, and product delivery.
+
+Over the years, I’ve contributed as both a hands-on engineer and technical lead — building core product areas, improving performance, shaping architecture, mentoring teammates, and helping teams ship with confidence.
+
+I’m especially strong in:
+- Scalable SaaS and product engineering
+- Frontend/Backend architecture and system design
+- JavaScript / TypeScript application development
+- Refactoring and modernization of existing systems
+- Reusable patterns, internal tooling, and maintainable codebases
+- Translating ambiguous requirements into production-ready solutions
+- Cross-team collaboration, mentoring, and technical leadership
+
+I care about building software that is not only functional, but clear, scalable, and valuable for the people using it.
+
+Always open to connecting with people who enjoy building great products, solving hard problems, and improving how teams deliver software.
+
+👨‍💻 Senior Software Engineer at Helu
+🕹️ Former Game Developer
+📷 🎥 Photography/Filmmaking Hobbyist.
 🕊️ Stoic
-
-Proactive software engineer with over 10 years in software engineering. My stoic mindset shapes my approach to software engineering, fostering resilience in the face of challenges and maintaining a calm, focused demeanor even in high-pressure situations.
-
-I've always been driven by technology and innovation. Started my adventure with the soldering iron and disassembled toys as a kid with a high interest in electricity and magnetism. Sega Mega Drive and PS1 console distracted me until Dial-up and Internet got my attention, then I discovered modding, programming, and whatnot. It never stopped since then. I'm learning new things on daily basis and I think I'm addicted to it. If there is only one thing I've realized during this time then it is that the following quote is true:
-
-"The more I learn, the more I realize how much I don't know"
-
-Let's connect! Whether it's to discuss tech trends, explore collaboration opportunities, or share our experiences, I look forward to connecting with like-minded professionals.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
