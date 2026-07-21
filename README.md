@@ -30,6 +30,10 @@ Always open to connecting with people who enjoy building great products, solving
 📷 🎥 Photography/Filmmaking Hobbyist.
 🕊️ Stoic
 
+## Open Source
+
+**[merge-forge](https://github.com/ognjenmarcheta/merge-forge)** — JetBrains-style three-pane merge conflicts for VS Code & Cursor, with optional AI.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Windows-blue?logo=windows&label=OS)
