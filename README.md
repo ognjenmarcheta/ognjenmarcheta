@@ -32,25 +32,28 @@ Always open to connecting with people who enjoy building great products, solving
 
 ## Open Source
 
-### [Merge Forge](https://github.com/ognjenmarcheta/merge-forge)
-
-<p align="center">
-  <a href="https://github.com/ognjenmarcheta/merge-forge">
-    <img src="https://raw.githubusercontent.com/ognjenmarcheta/merge-forge/main/media/project-banner.png" width="800" alt="Merge Forge: three-pane merge conflict resolution for VS Code and Cursor" />
-  </a>
-</p>
-
-A JetBrains-style three-pane merge conflict resolver for VS Code and Cursor, with optional AI assistance to explain and resolve conflicts.
-
-### [Kaine Forge](https://github.com/ognjenmarcheta/kaine-forge)
-
-<p align="center">
-  <a href="https://github.com/ognjenmarcheta/kaine-forge">
-    <img src="https://raw.githubusercontent.com/ognjenmarcheta/kaine-forge/main/media/project-banner.png" width="800" alt="Kaine Forge: full-stack TypeScript for humans and agents across web, desktop, and mobile" />
-  </a>
-</p>
-
-An agent-ready TypeScript monorepo template for web, desktop, and mobile products. Combines React, GraphQL, Tauri, and Expo with shared packages, authentication, organization-scoped data, and consistent coding-agent workflows.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ognjenmarcheta/kaine-forge">Kaine Forge</a></h3>
+      <p align="center">
+        <a href="https://github.com/ognjenmarcheta/kaine-forge">
+          <img src="https://raw.githubusercontent.com/ognjenmarcheta/kaine-forge/main/media/project-banner.png" width="400" alt="Kaine Forge: full-stack TypeScript for humans and agents across web, desktop, and mobile" />
+        </a>
+      </p>
+      <p>An agent-ready TypeScript monorepo template for web, desktop, and mobile products. Combines React, GraphQL, Tauri, and Expo with shared packages, authentication, organization-scoped data, and consistent coding-agent workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ognjenmarcheta/merge-forge">Merge Forge</a></h3>
+      <p align="center">
+        <a href="https://github.com/ognjenmarcheta/merge-forge">
+          <img src="https://raw.githubusercontent.com/ognjenmarcheta/merge-forge/main/media/project-banner.png" width="400" alt="Merge Forge: three-pane merge conflict resolution for VS Code and Cursor" />
+        </a>
+      </p>
+      <p>A JetBrains-style three-pane merge conflict resolver for VS Code and Cursor, with optional AI assistance to explain and resolve conflicts.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
