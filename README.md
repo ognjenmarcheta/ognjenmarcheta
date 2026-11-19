@@ -53,6 +53,17 @@ Always open to connecting with people who enjoy building great products, solving
       <p>A JetBrains-style three-pane merge conflict resolver for VS Code and Cursor, with optional AI assistance to explain and resolve conflicts.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ognjenmarcheta/dotfiles">dotfiles</a></h3>
+      <p align="center">
+        <a href="https://github.com/ognjenmarcheta/dotfiles">
+          <img src="https://raw.githubusercontent.com/ognjenmarcheta/dotfiles/main/media/project-banner.png" width="400" alt="dotfiles: one terminal setup for every machine and every agent" />
+        </a>
+      </p>
+      <p>One terminal setup for macOS and Linux: WezTerm, zsh, Starship, Neovim and the <code>dot</code> command. Includes Claude Code helpers that turn plain English into commands, fix typos, write standups and run a night shift, all on your own subscription.</p>
+    </td>
+  </tr>
 </table>
 
 ## 🔧 Technologies & Tools
