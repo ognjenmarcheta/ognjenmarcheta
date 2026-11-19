@@ -55,13 +55,13 @@ Always open to connecting with people who enjoy building great products, solving
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/ognjenmarcheta/dotfiles">dotfiles</a></h3>
+      <h3><a href="https://github.com/ognjenmarcheta/dot-forge">Dot Forge</a></h3>
       <p align="center">
-        <a href="https://github.com/ognjenmarcheta/dotfiles">
-          <img src="https://raw.githubusercontent.com/ognjenmarcheta/dotfiles/main/media/project-banner.png" width="400" alt="dotfiles: one terminal setup for every machine and every agent" />
+        <a href="https://github.com/ognjenmarcheta/dot-forge">
+          <img src="https://raw.githubusercontent.com/ognjenmarcheta/dot-forge/main/media/project-banner.png" width="400" alt="Dot Forge: one terminal setup for every machine and every agent" />
         </a>
       </p>
-      <p>One terminal setup for macOS and Linux: WezTerm, zsh, Starship, Neovim and the <code>dot</code> command. Includes Claude Code helpers that turn plain English into commands, fix typos, write standups and run a night shift, all on your own subscription.</p>
+      <p>My dotfiles, forged: one terminal setup for macOS and Linux: WezTerm, zsh, Starship, Neovim and the <code>dot</code> command. Includes Claude Code helpers that turn plain English into commands, fix typos, write standups and run a night shift, all on your own subscription.</p>
     </td>
   </tr>
 </table>
